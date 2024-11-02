@@ -1,4 +1,4 @@
-module protos
+module github.com/iceloca/sso_protos
 
 go 1.23.1
 
